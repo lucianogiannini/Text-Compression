@@ -7,4 +7,4 @@ Description: Mathematics and computer science have a symbiotic relationship.  On
 Data compression is a technique which reduces the size of a file or data collection without affecting the information contained in the file.  A compressed file, obviously, requires less storage space.  Moreover, electronic transfer of a compressed file is faster than the transfer of an uncompressed file and a smaller file is consequently less susceptible to transmission errors.  
 
 Click Below:
-[For Full Documentation on the Project](https://github.com/lucianogiannini/Cryptography/blob/main/LC%20Lab%202.pdf)
+[For Full Documentation on the Project](https://github.com/lucianogiannini/Text-Compression/blob/main/Lab%203%20-%20Compression.pdf)
